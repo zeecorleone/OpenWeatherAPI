@@ -1,6 +1,4 @@
-Here's a detailed and attractive README file for your "OpenWeatherAPI" repository:
 
----
 
 # OpenWeatherAPI ![C#](https://img.shields.io/badge/C%23-8.0-green) ![IHttpClientFactory](https://img.shields.io/badge/IHttpClientFactory-blue) ![License](https://img.shields.io/github/license/zeecorleone/OpenWeatherAPI)
 
