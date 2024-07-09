@@ -11,7 +11,7 @@ Welcome to the **OpenWeatherAPI** repository! This project demonstrates how to c
 - **OpenWeather API Integration**: Fetch weather data using the OpenWeather API.
 
 ## Medium Article
-I have written a [Medium article](https://todo.abc) on this topic: **Use IHttpClientFactory Right Way!**. In this article, I discuss the benefits of using `IHttpClientFactory`, the problems it solves (e.g., socket exhaustion), and the three approaches to use `HttpClient` with code examples just like in this repository.
+I have written a [Medium article](https://medium.com/@zeeshan.mustafa91/use-httpclientfactory-right-way-d3fb877913c0) on this topic: **Use IHttpClientFactory Right Way!**. In this article, I discuss the benefits of using `IHttpClientFactory`, the problems it solves (e.g., socket exhaustion), and the three approaches to use `HttpClient` with code examples just like in this repository.
 
 ## Getting Started
 
